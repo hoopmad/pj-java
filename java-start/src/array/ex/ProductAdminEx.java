@@ -43,7 +43,7 @@ public class ProductAdminEx {
                 break;
             }
             else {
-                System.out.print("잘못 입력했습니다. 다시 입력해 주세요.");
+                System.out.println("잘못 입력했습니다. 다시 입력해 주세요.");
             }
         }
     }
