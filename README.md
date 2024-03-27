@@ -2,3 +2,4 @@
 
 자바
 - [김영한의 자바 입문](https://inf.run/2zsZz)
+- [김영한의 자바 기초](https://inf.run/YQbQJ)
