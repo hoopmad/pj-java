@@ -12,13 +12,13 @@ public class Method1 {
         printStudent(student2);
     }
 
-    private static void initStudent(Student student, String name, int age, int grade) {
+    static void initStudent(Student student, String name, int age, int grade) {
         student.name = name;
         student.age = age;
         student.grade = grade;
     }
 
-    private static void printStudent(Student student1) {
+    static void printStudent(Student student1) {
         System.out.println("이름 " + student1.name + " 나이:" + student1.age + " 성적:" + student1.grade);
     }
 }
